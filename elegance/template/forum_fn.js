@@ -1751,7 +1751,7 @@ jQuery(function($) {
 	styleConfig._resizeThrottled = false;
 	styleConfig._resizeQueued = false;
 
-	$(window).load(function() {
+	$(window).on('load', function() {
 		checkNavigation(true);
 		if (styleConfig.extendPosterProfile) {
 			$('.postprofile + .postbody > div:only-child').each(function() {
