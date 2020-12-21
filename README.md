@@ -5,7 +5,7 @@ Style for phpBB 3.3
 
 Requirements:
 
-- phpBB 3.3.0
+- phpBB 3.3.2
 - prosilver
 
 Style come with 7 color variations:
