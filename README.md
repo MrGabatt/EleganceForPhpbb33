@@ -25,7 +25,7 @@ To install a color variation, you must first install the Elegance style.
 
 
 ## Download
-https://github.com/MrGabatt/EleganceForPhpbb32/archive/master.zip
+https://github.com/MrGabatt/EleganceForPhpbb33/archive/master.zip
 
 
 ## License
