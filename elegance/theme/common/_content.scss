@@ -902,7 +902,6 @@ blockquote .codebox {
 
 .attach-image img {
 	// border: 1px solid transparent;
-//	cursor: move;
 	cursor: default;
 }
 
@@ -1069,6 +1068,10 @@ fieldset.polls dd div {
 
 .postprofile dt.no-profile-rank, .postprofile dd.profile-rank, .postprofile .search-result-date {
 	margin-bottom: 10px;
+}
+
+.profile-rank img {
+	max-width: 160px;
 }
 
 // Post-profile avatars
